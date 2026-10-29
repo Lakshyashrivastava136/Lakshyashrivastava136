@@ -24,12 +24,19 @@ Tools & DevOps: Git, GitHub, Postman, Docker, GitHub Actions
 
 ### 🚀 Featured Projects
 
-#### 1. Interview AI
+#### 1. 🚀 PrepPilot AI: AI Interview Preparation Platform
 
-AI-powered interview application.
+An AI-powered platform that helps candidates prepare for interviews: upload a resume, paste a job description, and get a personalised prep plan, practise with an AI mock interviewer, check your ATS score and track your progress.
 
-- Repository: [interview-ai-yt](https://github.com/Lakshyashrivastava136/interview-ai-yt)
-- Focus: Full-stack development, backend APIs and AI integration.
+- 🔗 **Live Demo:** [preppilot-ai](https://interview-ai-yt-amber.vercel.app)
+- 💻 **Repository:** [PrepPilot-AI](https://github.com/Lakshyashrivastava136/PrepPilot-AI)
+- 🛠️ **Tech Stack:** React, Node.js, Express, MongoDB, Google Gemini API, JWT, Zod
+- ✨ **Key Features:**
+  - AI interview reports: role-specific questions, skill gaps and a day-wise roadmap
+  - AI mock interviews with per-answer scoring and feedback
+  - ATS resume analyzer with keyword matching and improvement suggestions
+  - Progress dashboard built with MongoDB aggregation pipelines
+- 🛡️ **Engineering Highlights:** JWT auth with httpOnly secure cookies, rate limiting, Helmet, AI retry with fallback model, deployed on Vercel + Render + MongoDB Atlas
 
 #### 2. Streamify — Video Calling App
 
